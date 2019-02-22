@@ -1,1 +1,1 @@
-gem freelancer-theme-jekyll
+gem 'freelancer-theme-jekyll', '~> 1.0'
