@@ -1,1 +1,2 @@
-gem 'freelancer-theme-jekyll', '~> 1.0'
+source "https://rubygems.org"
+gemspec
