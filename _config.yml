@@ -56,8 +56,7 @@ address:
   - line: New York, NY 10027
 
 # Credits content
-credits: 
-  - line: Barnard, Dept. of Biology
+credits: 'Barnard, Dept. of Biology'
 
 # Build settings
 markdown: kramdown
