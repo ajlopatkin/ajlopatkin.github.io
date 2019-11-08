@@ -44,8 +44,8 @@ social:
     url: https://twitter.com/AllisonLopatkin
   #- title: facebook
   #  url:
-  #- title: stack-overflow
-  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: google-plus
+    url: https://scholar.google.com/citations?user=NkCeDgYAAAAJ&hl=en
   - title: github
     url: http://github.com/ajlopatkin
 
