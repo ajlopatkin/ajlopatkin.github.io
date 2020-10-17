@@ -5,10 +5,9 @@ date: 2014-07-17
 img: HP_lab.jpg
 alt: image-alt
 project-date: April 2014
-client: Invited talks
-category: Conferences
-title: Dr. Lopatkin gives an invited talk on the dissemination of antibiotic resistance!
-description: Check out <a href="https://www.acsmeetings.org/":> to see the schedule!
+client: Life in the lab
+category: Updates
+title: Hannah Prensky starts revision experiments for her paper!
 
 ---
 
