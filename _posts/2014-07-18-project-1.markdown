@@ -8,7 +8,7 @@ project-date: April 2019
 client: Nature Microbiology
 category: Papers
 title: New Nature Reviews Microbiology Paper!
-description: Check it out at Nature! (https://www.nature.com/articles/s41579-020-0372-5)
+description: Check it out at <a href="https://www.nature.com/articles/s41579-020-0372-5">Nature</a>!
 
 ---
 
