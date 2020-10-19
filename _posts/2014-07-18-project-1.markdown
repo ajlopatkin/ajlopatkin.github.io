@@ -1,14 +1,14 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2019-08-21
 img: nat.png
 alt: image-alt
-project-date: August 2019
+project-date: April 2019
 client: Nature Microbiology
 category: Papers
 title: New Nature Reviews Microbiology Paper!
-description: Check it out here: <a href="https://www.nature.com/articles/s41579-020-0372-5?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nrmicro%2Frss%2Fcurrent+%28Nature+Reviews+Microbiology+-+Issue%29">
+description: Check it out at Nature! (https://www.nature.com/articles/s41579-020-0372-5)
 
 ---
 
