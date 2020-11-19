@@ -57,6 +57,8 @@ address:
 
 # Credits content
 credits: 'Barnard, Dept. of Biology'
+credits: 'Columbia University, Data Science Institute'
+credits: 'Columbia University, Evolutionary genomics group'
 
 # Build settings
 markdown: kramdown
