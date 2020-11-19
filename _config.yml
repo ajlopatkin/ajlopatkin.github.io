@@ -56,9 +56,10 @@ address:
   - line: New York, NY 10027
 
 # Credits content
-credits: Barnard, Dept. of Biology
-#  - line: Columbia University, Data Science Institute
-#  - line: Columbia University, Evolutionary genomics group
+credits: 
+  - line: Barnard, Dept. of Biology
+  - line: Columbia University, Data Science Institute
+  - line: Columbia University, Evolutionary genomics group
 
 # Build settings
 markdown: kramdown
