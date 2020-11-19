@@ -58,8 +58,8 @@ address:
 # Credits content
 credits: 
   - line: Barnard, Dept. of Biology
-  - line: Columbia University, Data Science Institute
-  - line: Columbia University, Evolutionary genomics group
+  - line: Columbia University, <a href="https://evolutionatcolumbia.org/", target="_blank">Data Science Institute</a>
+  - line: Columbia University, <a href="https://datascience.columbia.edu/people/allison-lopatkin/", target="_blank">Evolutionary genomics group</a>
 
 # Build settings
 markdown: kramdown
