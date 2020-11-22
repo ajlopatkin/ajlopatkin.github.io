@@ -57,7 +57,7 @@ address:
 
 # Credits content
 credits: 
-  - line: Barnard College, <a href="https://barnard.edu/profiles/allison-lopatkin", target="_blank/", style="color:white;"> Dept. of Biology
+  - line: Barnard College, <a href="https://barnard.edu/profiles/allison-lopatkin", target="_blank/", style="color:white;"> Dept. of Biology</a>
   - line: Columbia University, <a href="https://datascience.columbia.edu/people/allison-lopatkin/", target="_blank", style="color:white;">Data Science Institute</a>
   - line: Columbia University, <a href="https://evolutionatcolumbia.org/", target="_blank", style="color:white;">Evolutionary genomics group</a>
 
