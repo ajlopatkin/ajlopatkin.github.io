@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: lab_meeting.png
+img: zoom1.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
