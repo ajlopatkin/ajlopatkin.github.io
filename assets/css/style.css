@@ -479,6 +479,7 @@ section {
 .section-title {
   text-align: center;
   padding-bottom: 30px;
+  transition: all 0.3s ease-in-out;
 }
 .section-title h2 {
   font-size: 28px;
@@ -631,6 +632,24 @@ section {
 }
 .services .icon-box-blue:hover {
   border-color: #2282ff;
+}
+.services .icon-box-orange .icon {
+  background: #faf9d2;
+}
+.services .icon-box-orange .icon i {
+  color: #d1c130;
+}
+.services .icon-box-orange:hover {
+  border-color: #d1c130;
+}
+.services .icon-box-purple .icon {
+  background: #edcdf7;
+}
+.services .icon-box-purple .icon i {
+  color: #8902b3;
+}
+.services .icon-box-purple:hover {
+  border-color: #8902b3;
 }
 
 /*--------------------------------------------------------------
@@ -964,6 +983,45 @@ section {
 .service-details .card-img img {
   max-width: 100%;
   transition: all 0.3s ease-in-out;
+}
+.service-details .image-hover {
+  opacity: 1;
+  display: block;
+  width: 75%;
+  padding-left: 25%;
+  padding-bottom: 15%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.service-details .text-hover {
+  transition: .5s ease;
+  opacity: 0;
+  width: 99%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.service-details .text-style {
+  background-color: #FFFFFF;
+  opacity: 0.8;
+  color: black;
+  font-size: 16px;
+  padding: 8px 8px;
+}
+.service-details .card-img:hover .image-hover {
+  opacity: 0.3
+}
+.service-details .card-img:hover .text-hover {
+  opacity: 1
+}
+.service-details .card-img:hover .section-title {
+  opacity: 0
 }
 .service-details .card-body {
   z-index: 10;
